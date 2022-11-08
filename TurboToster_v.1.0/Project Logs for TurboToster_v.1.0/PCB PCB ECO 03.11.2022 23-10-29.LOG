@@ -1,0 +1,29 @@
+Added Component: Designator=J?(J_HEADER_1x12_2.54_VERTICAL)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.tme.eu/Document/efd0203e2d3a140765df98191085ea88/DS1023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DS1023-1*10S21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "J_HEADER_1x12_2.54_VERTICAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCH_Footprint"; Value = "1x12 2.54mm Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "RS Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 6"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 7"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ZL262-10SG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 7"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DS1023-1*10S21"; VariantName = "[No Variations]"
+Added Component: Designator=U?(CPC1907B)
+Added Component: Designator=U?(CPC1907B)
+Added Member To Class: ClassName=Main Member=Component J? ARK2
+Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component U? CPC1907B
+Added Member To Class: ClassName=Main Member=Component U? CPC1907B

@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=Main Member=X?
-Change Component Designator: OldDesignator=K? NewDesignator=K1
-Change Component Designator: OldDesignator=P? NewDesignator=P1
-Change Component Designator: OldDesignator=U? NewDesignator=U1
-Change Component Designator: OldDesignator=X? NewDesignator=X1
-Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
-Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
-Added Member To Class: ClassName=Main Member=Component J? 600V 30A connector
-Added Member To Class: ClassName=Main Member=Component X1 FTSH-107-01-XXX-DV-K

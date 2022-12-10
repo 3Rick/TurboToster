@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=external_devices.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=external_devices.SchDoc|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=external_devices.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=external_devices.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2

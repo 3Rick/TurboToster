@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ5_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=K1-4
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U4-5
+Added Pin To Net: NetName=NetJ4_1 Pin=U4-6
+Added Net: Name=NetJ4_1
+Added Member To Class: ClassName=Main Member=Component C9 Ceramic X7R
+Added Member To Class: ClassName=Main Member=Component C13 Ceramic C0G
+Added Member To Class: ClassName=Main Member=Component J2 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component J3 ARK2
+Added Member To Class: ClassName=Main Member=Component J4 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component J5 600V 30A connector
+Added Member To Class: ClassName=Main Member=Component U1 TPS62133RGTR
+Added Member To Class: ClassName=Main Member=Component U4 CPC1907B

@@ -1,0 +1,28 @@
+Added Component: Designator=K2(FTR-F3AA012E)
+Added Component: Designator=U6(IRM-30-12)
+Added Component: Designator=U9(CPC1907B)
+Added Component: Designator=U10(CPC1907B)
+Added Pin To Net: NetName=12V Pin=K2-1
+Added Pin To Net: NetName=NetD2_2 Pin=K2-2
+Added Pin To Net: NetName=L Pin=K2-3
+Added Pin To Net: NetName=NetJ10_1 Pin=K2-4
+Added Pin To Net: NetName=L Pin=U6-1
+Added Pin To Net: NetName=N Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=12V Pin=U6-4
+Added Pin To Net: NetName=NetR8_2 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=NetJ8_1 Pin=U9-5
+Added Pin To Net: NetName=NetJ8_1 Pin=U9-6
+Added Pin To Net: NetName=L Pin=U9-7
+Added Pin To Net: NetName=L Pin=U9-8
+Added Pin To Net: NetName=NetR9_2 Pin=U10-2
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=NetJ9_1 Pin=U10-5
+Added Pin To Net: NetName=NetJ9_1 Pin=U10-6
+Added Pin To Net: NetName=L Pin=U10-7
+Added Pin To Net: NetName=L Pin=U10-8
+Added Member To Class: ClassName=external_devices Member=Component K2 FTR-F3AA012E
+Added Member To Class: ClassName=Power Member=Component U6 IRM-30-12
+Added Member To Class: ClassName=external_devices Member=Component U9 CPC1907B
+Added Member To Class: ClassName=external_devices Member=Component U10 CPC1907B

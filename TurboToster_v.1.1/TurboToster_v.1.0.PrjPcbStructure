@@ -1,4 +1,3 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Power.SchDoc|SheetNumber=2
